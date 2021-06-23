@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: catico.dev
+Token: 8ce923f13d170744278b3102ae2e827f4a431f62fef6851a48f4dfc207f68c81
