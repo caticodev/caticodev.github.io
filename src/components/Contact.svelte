@@ -1,6 +1,6 @@
 <div class="contact" id="contact">
   <div class="contact_icons">
-    <a class="contact_el" href="https://github.com/cat-ico" target="_blank">
+    <a class="contact_el" href="https://github.com/caticodev" target="_blank">
       <svg
         width="54"
         height="58"
@@ -14,7 +14,7 @@
         />
       </svg>
     </a>
-    <a class="contact_el" href="mailto:caticoapps@gmail.com" target="_blank">
+    <a class="contact_el" href="mailto:hi@catico.dev" target="_blank">
       <svg
         width="54"
         height="44"
@@ -31,7 +31,7 @@
     </a>
     <a
       class="contact_el"
-      href="https://twitter.com/catico_apps"
+      href="https://twitter.com/caticodev"
       target="_blank"
     >
       <svg
@@ -83,7 +83,7 @@
         />
       </svg>
     </a>
-    <a class="contact_el" href="https://ko-fi.com/catico_apps" target="_blank">
+    <a class="contact_el" href="https://ko-fi.com/caticodev" target="_blank">
       <svg
         width="56"
         height="54"
